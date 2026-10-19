@@ -38,6 +38,7 @@
 ## 📝 Ringkasan Jawaban Tugas UTS
 
 ### 1. Tugas Pendahuluan (Checkpoint)
+* **Lingkungan Komputasi:** Seluruh proses dijalankan langsung pada **Lingkungan Python Lokal (Local Environment)** di Windows dengan pustaka lokal (`Python 3.11`, `neo4j 4.2.1`, `pandas`, `numpy`, `scipy`, `scikit-learn`, `networkx`, `matplotlib`) serta server lokal **Neo4j Desktop** (`bolt://localhost:7687`), tanpa memerlukan virtual environment terpisah (`venv`).
 1. **Nama Database:** Database default yang digunakan adalah **`neo4j`**, serta database sistem **`system`** untuk administrasi instans/metadata.
 2. **Akses Database Lain:**
    - Melalui CYPHER: Klausul `USE <database_name>`, contoh: `USE system SHOW DATABASES;`
