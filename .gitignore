@@ -1,0 +1,10 @@
+# Ignore raw Kaggle archive folder (contains 1GB raw CSV files)
+archive/
+
+# Ignore Python caches & virtual environments
+__pycache__/
+*.pyc
+myenv/
+myvenv/
+.ipynb_checkpoints/
+*.log
