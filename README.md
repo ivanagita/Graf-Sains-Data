@@ -25,12 +25,7 @@
 ├── events_p2_testing.csv            # Dataset interaksi P2 (Testing: 177.033 baris)
 ├── item_properties_p1.csv           # Snapshot properti item periode P1 (1.157.232 baris)
 ├── item_properties_p2.csv           # Snapshot properti item periode P2 (519.460 baris)
-├── user_projection_graph.png        # Visualisasi graf proyeksi User-User (NetworkX)
-├── item_projection_graph.png        # Visualisasi graf proyeksi Item-Item (NetworkX)
-├── graph_before_after_similarity.png# Visualisasi graf SEBELUM vs SESUDAH perhitungan similarity
-├── summary_results.png              # Ringkasan tabel metrik evaluasi rekomendasi
-├── list_yg _tidak_boleh.md          # Daftar periode waktu mahasiswa lain (referensi keunikan)
-└── 2601_UTS-GSD.pdf                 # Naskah soal resmi UTS Graf Sains Data
+└── requirements.txt                 # Dependensi pustaka Python
 ```
 
 ---

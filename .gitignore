@@ -8,3 +8,6 @@ myenv/
 myvenv/
 .ipynb_checkpoints/
 *.log
+*.png
+*.pdf
+list_yg _tidak_boleh.md
